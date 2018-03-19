@@ -12,4 +12,11 @@
 * [day 09](day_09/README.md)
 * [day 10](day_10/README.md)
 * [day 11](day_11/README.md)
-
+* [day_12](day_12/README.md)
+* [day_13](day_13/README.md)
+* [day_14](day_14/README.md)
+* [day_15](day_15/README.md)
+* [day_16](day_16/README.md)
+* [day_17](day_17/README.md)
+* [day_18](day_18/README.md)
+* [day_19](day_19/README.md)
